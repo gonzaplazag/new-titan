@@ -1,0 +1,11 @@
+1. Pclass, pero introducir one-hot
+2. Age, con imputador de media
+3. sibsp
+4. parch
+5. Fare, con imputador de media
+6. Embarked, con imputador de mediana y one hot
+
+# Queda
+- darle la vuelta en la exploratorio a sibs y parch.
+- ver el tema de la relación del embarque y la condición socioeconómica.
+- ver el tema de la imputación de la edad
