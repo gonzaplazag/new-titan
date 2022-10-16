@@ -1,9 +1,23 @@
-1. Pclass, pero introducir one-hot
-2. Age, con imputador de media
-3. sibsp
-4. parch
-5. Fare, con imputador de media
-6. Embarked, con imputador de mediana y one hot
+1. Atacar sibs y parch. Sumar el total y dividir en 3 categ:
+alone, regular, big
+
+2. Agregar la densidad del ticket.
+
+3. Agregar categoría de apelativo.
+
+# Mme = Mre
+# Mlle = Miss
+# Lady = Miss
+# Sir = Mr
+# Ms = Mre
+# Don = Mr
+
+#Mr                          517
+#Miss                        182
+#Mrs                         124
+#Master                       40
+#Dr                            7
+#rev
 
 # Queda
 - darle la vuelta en la exploratorio a sibs y parch.
